@@ -37,9 +37,6 @@ if __name__ == '__main__':
 
 
 #el type() funciona para mostrar el tipo de variable que es una variable
-from random import lognormvariate
-
-
 print(type("Cosas simples"))
 #el + funciona para unir cadenas de texto y en numeros los suma 
 print("bye " + "mundo")
@@ -92,4 +89,4 @@ print("La edad de tu gfa: "+str(asd))
 
 print("Tu mamá es tan gorda que si se cae le da la vuelta al mundo "+str(asd)+" veces")
 
-# lore
+#Officia et qui pariatur elit nisi commodo reprehenderit cillum Lorem est.
