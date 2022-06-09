@@ -37,6 +37,9 @@ if __name__ == '__main__':
 
 
 #el type() funciona para mostrar el tipo de variable que es una variable
+from unittest import case
+
+
 print(type("Cosas simples"))
 #el + funciona para unir cadenas de texto y en numeros los suma 
 print("bye " + "mundo")
@@ -90,3 +93,4 @@ print("La edad de tu gfa: "+str(asd))
 print("Tu mamá es tan gorda que si se cae le da la vuelta al mundo "+str(asd)+" veces")
 
 #Officia et qui pariatur elit nisi commodo reprehenderit cillum Lorem est.
+print("Culpa qui excepteur ut nisi ullamco nulla non consectetur id culpa incididunt. Deserunt voluptate aliquip laborum minim cupidatat quis amet minim. Ex exercitation amet nostrud sit non proident nisi. Fugiat cillum nulla veniam culpa reprehenderit voluptate dolore incididunt non id sit. Occaecat eu occaecat velit duis labore anim sunt ut laboris veniam elit et sint. Anim laboris aute dolore adipisicing. Aliqua id Lorem ullamco ex minim sit commodo cupidatat ea.")
