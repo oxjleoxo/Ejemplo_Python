@@ -37,9 +37,6 @@ if __name__ == '__main__':
 
 
 #el type() funciona para mostrar el tipo de variable que es una variable
-from unittest import case
-
-
 print(type("Cosas simples"))
 #el + funciona para unir cadenas de texto y en numeros los suma 
 print("bye " + "mundo")
