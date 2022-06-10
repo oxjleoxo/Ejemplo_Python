@@ -96,4 +96,4 @@ if __name__ == '__main__':
 
 print("A ver que pasa con los nuevos cambios que voy a hacer")
 a,b,c = 10,20,30
-print("suma de 10 en 10: "+str(a)+"+10= "+str(b)  )
+print(str(a)+"+"+str(a)+"="+str(b)+" y "+str(b)+"+"+str(a)+"="+str(c))
