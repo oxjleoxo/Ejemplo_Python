@@ -97,3 +97,4 @@ if __name__ == '__main__':
 print("A ver que pasa con los nuevos cambios que voy a hacer")
 a,b,c = 10,20,30
 print(str(a)+"+"+str(a)+"="+str(b)+" y "+str(b)+"+"+str(a)+"="+str(c))
+lorem       lorem       lorem       lorem       lorem       lorem       lorem       lorem       
